@@ -1,0 +1,9 @@
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\bin\Debug\netcoreapp3.1\AuthTest.Core.deps.json
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\bin\Debug\netcoreapp3.1\AuthTest.Core.dll
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\bin\Debug\netcoreapp3.1\AuthTest.Core.pdb
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.csprojAssemblyReference.cache
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.AssemblyInfoInputs.cache
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.AssemblyInfo.cs
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.dll
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.pdb
+C:\Users\akatukhin\source\repos\AuthTest1\AuthTest.Core\obj\Debug\netcoreapp3.1\AuthTest.Core.csproj.CoreCompileInputs.cache
